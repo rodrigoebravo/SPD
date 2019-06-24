@@ -1,0 +1,18 @@
+Algebra de bool - OK
+De Morgan - 
+Compuertas lógicas FALTA LOGICA NAND
+circuitos ?????
+Karnaugh
+
+Arduino:
+		Analog/PWM
+		LCD/
+		Pote/
+		Servo Motor
+		Sensor Temperatura
+		Numeros
+		
+		
+		
+		
+		
