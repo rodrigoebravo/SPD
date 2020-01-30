@@ -1,0 +1,142 @@
+John Von Neumann ideó una solución para:
+
+Seleccione una:
+a. Evitar utilizar binario.
+b. Ninguna respuesta es correcta.
+c. Utilizar programas almacenados en lugar de cableados.
+d. Poder superponer procesos de lectura y ejecución.
+Pregunta 2
+Sin responder aún
+Puntúa como 1,00
+No marcadasMarcar pregunta
+Enunciado de la pregunta
+Los canales...
+
+Seleccione una:
+a. Son dispositivos encargados de establecer enlaces de comunicación entre la CPU (Unidad Central de Proceso) y la memoria principal.
+b. Son dispositivos encargados de establecer enlaces de comunicación entre la CPU (Unidad Central de Proceso) y la UAL (Unidad Aritmético Lógica).
+c. Son dispositivos encargados de establecer enlaces de comunicación entre la UAL (Unidad Aritmético Lógica) y los periféricos.
+d. Son dispositivos encargados de establecer enlaces de comunicación entre la CPU (Unidad Central de Proceso) y los periféricos.
+Pregunta 3
+Sin responder aún
+Puntúa como 1,00
+No marcadasMarcar pregunta
+Enunciado de la pregunta
+Marque las afirmaciones correctas sobre la UAL:
+
+Seleccione una:
+a. Realiza operaciones aritméticas o lógicas que le ordena la memoria.
+b. Ninguna opción es correcta.
+c. Realiza instrucciones que le ordena la UC.
+d. Emite las órdenes sobre operaciones aritméticas y lógicas, para que estas sean ejecutadas por la UC.
+e. con distinto formato
+Pregunta 4
+Sin responder aún
+Puntúa como 1,00
+No marcadasMarcar pregunta
+Enunciado de la pregunta
+Indique cuál de las siguientes no es una función propia de la UC:
+
+Seleccione una:
+a. Obtener de memoria la próxima instrucción a ejecutar.
+b. Localizar en la memoria principal los datos a operar.
+c. Realiza operaciones aritméticas o lógicas que le ordena la UAL.
+d. Analiza la instrucción.
+e. Ordenarle al circuito de la Unidad Aritmético Lógica que realice con dichos datos las instrucciones indicadas.
+Pregunta 5
+Sin responder aún
+Puntúa como 1,00
+No marcadasMarcar pregunta
+Enunciado de la pregunta
+Indique cuál de las siguientes afirmaciones es correcta con respecto a la memoria principal.
+
+
+Seleccione una:
+a. La memoria principal, comunmente llamada "RAM", se encuentra conectada directamente a la CPU al igual que la memoria secundaria.
+b. La memoria principal trabajaba principalmente con memorias magnéticas, por eso es usual que se utilice un disco rígido.
+c. Ninguna de las anteriores es correcta
+d. La memoria principal, comunmente llamada "RAM", se encuentra conectada directamente a la CPU y a la memoria secundaria
+Pregunta 6
+Sin responder aún
+Puntúa como 1,00
+No marcadasMarcar pregunta
+Enunciado de la pregunta
+La CPU está compuesta por:
+
+Seleccione una:
+a. Memoria principal
+b. Unidad de control
+c. Unidad de control aritmético-lógica
+d. Unidad aritmético-lógica
+
+
+
+***************************************************
+
+
+
+Indique cuál de las siguientes definiciones describe la arquitectura de computadoras de Von Neumann:
+
+Seleccione una:
+a. La arquitectura de Von Neumann consta de una CPU (Unidad Central de proceso) conectada a una única memoria donde se guardan conjuntamente instrucciones (programas) y datos (con los cuales operan estos programas). A dicha memoria se accede a través de tres buses distintos (control, direcciones y datos).
+b. La arquitectura de Von Neumann consta de una UC (Unidad de Control) conectada a una única memoria donde se guardan conjuntamente instrucciones (programas) y datos (con los cuales operan estos programas). A dicha memoria se accede a través de un sistema de buses único (control, direcciones y datos).
+c. La arquitectura de Von Neumann consta entonces de una CPU (Unidad Central de proceso) conectada a una única memoria donde se guardan conjuntamente instrucciones (programas) y datos (con los cuales operan estos programas). A dicha memoria se accede a través de un sistema de buses único (control, direcciones y datos).
+d. Ninguna de las anteriores es correcta
+Pregunta 2
+Sin responder aún
+Puntúa como 1,00
+No marcadasMarcar pregunta
+Enunciado de la pregunta
+Marque a continuación las ventajas de la arquitectura CISC.
+
+Seleccione una:
+a. Reduce la dificultad de crear compiladores.
+b. Cada instrucción puede ser ejecutada en un solo ciclo del CPU.
+c. La CPU trabaja más rápido al utilizar menos ciclos de reloj para ejecutar instrucciones
+d. Mejora la compactación de código.
+Pregunta 3
+Sin responder aún
+Puntúa como 1,00
+No marcadasMarcar pregunta
+Enunciado de la pregunta
+Al trabajar con un archivo, lo primero que se debe hacer es abrirlo para poder:
+
+Seleccione una:
+a. Ninguna de las anteriores es correcta
+b. leer en el mismo
+c. Las dos anteriores son correctas
+d. escribir en el mismo
+Pregunta 4
+Sin responder aún
+Puntúa como 1,00
+No marcadasMarcar pregunta
+Enunciado de la pregunta
+La implementación de circuitos integrados se enmarca en...
+
+Seleccione una:
+a. La 2ra generación de computadoras.
+b. La 1ra generación de computadoras.
+c. La 4ra generación de computadoras.
+d. La 3ra generación de computadoras.
+Pregunta 5
+Sin responder aún
+Puntúa como 1,00
+No marcadasMarcar pregunta
+Enunciado de la pregunta
+Marque la/las afirmaciones correctas
+
+Seleccione una:
+a. La tercera generación surge a partir del desarrollo de circuitos integrados. A partir de esta generación, las siguientes van a estar marcadas por el aumento de la densidad de dispositivos electrónicos que pueden integrarse en un solo circuito integrado.
+b. La segunda generación de computadoras empieza con el descubrimiento del transistor. Además, surgen los primeros lenguajes de programación de alto nivel.
+c. La primera generación de computadoras, está marcada por el uso de tubos de vacío y el desarrollo de los primeros lenguajes de programación de alto nivel.
+Pregunta 6
+Sin responder aún
+Puntúa como 1,00
+No marcadasMarcar pregunta
+Enunciado de la pregunta
+Los microprocesadores de arquitectura CISC se caracterizan por tener un…
+
+Seleccione una:
+a. conjunto de instrucciones de tamaño fijo y presentadas en un reducido número de formatos.
+b. conjunto de instrucciones de tamaño variable y que permiten operaciones de control.
+c. un conjunto de instrucciones que se caracteriza por ser muy amplio y permitir operaciones complejas.

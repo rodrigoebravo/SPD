@@ -1,0 +1,8 @@
+Teoría
+
+1 Estructura de una computadora
+2 Sistemas de representación de la información
+3 Codificación de Números Negativos
+4 Representación de Números Decimales
+5 Detección de errores y códigos de corrección
+6 Memorias
